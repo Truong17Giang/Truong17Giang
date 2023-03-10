@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a Researcher
+I am a Researcher and
 I'm currently learning code
 
 # 💻Tech Stack
@@ -8,9 +8,5 @@ I'm currently learning code
 ![](https://github-readme-stats.vercel.app/api?username=Truong17Giang&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Truong17Giang&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Truong17Giang&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Truong17Giang&icon=0&color=0)](https://visitcount.itsvg.in)
